@@ -1,4 +1,6 @@
 **Campus Connect**
+
+
 Project Overview
 Campus Connect is a student management system developed using PHP and HTML. It enables teachers to add marks and attendance, while students can view their marks and attendance records. This project is designed for beginners to help them understand the basics of web development and database management.
 
@@ -21,7 +23,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/campus_connect.git
+git clone https://github.com/sudhirbagda/campus_connect.git
 Navigate to the project directory:
 
 bash
@@ -40,7 +42,7 @@ mysql -u yourusername -p Campus_Connect < database/schema.sql
 Deploy the Project:
 
 Copy the project files to your web server's root directory.
-Ensure your web server is running and navigate to http://localhost/campus_connect in your web browser.
+Ensure your web server is running and navigate to http://localhost/Campus_Connect in your web browser.
 Usage
 Teacher Portal
 Login: Teachers can log in using their credentials.
